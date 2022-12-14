@@ -1,0 +1,11 @@
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\bin\Debug\aula 14dezembro.exe.config
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\bin\Debug\aula 14dezembro.exe
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\bin\Debug\aula 14dezembro.pdb
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.csproj.AssemblyReference.cache
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.csproj.SuggestedBindingRedirects.cache
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula_14dezembro.inpulabol.resources
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula_14dezembro.Properties.Resources.resources
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.csproj.GenerateResource.cache
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.csproj.CoreCompileInputs.cache
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.exe
+C:\Users\mariza.vcosta\source\repos\aula 14dezembro\obj\Debug\aula 14dezembro.pdb
